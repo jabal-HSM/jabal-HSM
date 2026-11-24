@@ -20,7 +20,7 @@ I work in **French, Arabic and English**, and I care about clean, fast, mobile-f
 
 | Project | What it is | Built with |
 |---|---|---|
-| **[Barber booking website](https://github.com/jabal-HSM/barber-website)** | White-label booking site for barbershops: online appointments, customer accounts, admin dashboard, installable app (PWA), French / Arabic. **[Live demo →](https://zeyd-barber.pages.dev)** | HTML, CSS, JavaScript, Supabase (Postgres, Auth, RLS), Cloudflare Pages |
+| **[Barber booking website](https://github.com/jabal-HSM/barber-website)** | White-label booking site for barbershops: online appointments, customer accounts, admin dashboard, installable app (PWA), French / Arabic. **[Live demo →](https://barber-website-aq1.pages.dev)** | HTML, CSS, JavaScript, Supabase (Postgres, Auth, RLS), Cloudflare Pages |
 | **Solo Jabal** | Personal life-management system with RPG-style progress: goals, habits and stats, Arabic RTL interface. | Next.js, React, TypeScript, Supabase |
 | **TacosPulse** | Multi-tenant SaaS for fast-food restaurants. | Web, Supabase |
 
