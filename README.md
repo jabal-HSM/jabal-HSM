@@ -1,4 +1,5 @@
-## Hi, I'm Jabal 👋
+## Hi
+I'm Jabal 👋
 
 Web developer based in France. I build complete web products end to end: the interface, the database, authentication, and deployment.
 I work in **French, Arabic and English**, and I care about clean, fast, mobile-first interfaces.
