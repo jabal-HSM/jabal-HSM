@@ -1,10 +1,10 @@
 ## Hi
-I'm Jabal 👋
+I'm Jabal 
 
-Web developer based in France. I build complete web products end to end: the interface, the database, authentication, and deployment.
-I work in **French, Arabic and English**, and I care about clean, fast, mobile-first interfaces.
+Web developer based in France. I build complete web products end to end: the interface the database authentication and deployment
+I work in **French, Arabic and English** and I care about clean fast mobile-first interfaces
 
-### 🛠️ Tech stack
+###  Tech stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@ I work in **French, Arabic and English**, and I care about clean, fast, mobile-f
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🚀 Featured projects
+###  Featured projects
 
 | Project | What it is | Built with |
 |---|---|---|
@@ -27,12 +27,12 @@ I work in **French, Arabic and English**, and I care about clean, fast, mobile-f
 
 <sub>The barber booking website is public; my other projects are private and the code is available on request.</sub>
 
-### ✨ What I focus on
+###  What I focus on
 
 - **Security first**: row-level security, role-based access, no secrets in the frontend
 - **Tested code**: automated tests for business rules and database policies
 - **Real products**: deployed, used, and maintained, not just tutorials
 
-### 📫 Contact
+###  Contact
 
 Open to opportunities: feel free to reach out through GitHub.
